@@ -1,4 +1,4 @@
-import a from "indexTest.js"
+import a from "./indexTest.js"
 
 console.log(a)
 //draw board
@@ -8,7 +8,6 @@ ctx.fillStyle = 'green';
 ctx.fillRect(20, 10, 150, 100);
 
 let lastTime = null;
-
 
 
 //state
