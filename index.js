@@ -1,4 +1,6 @@
+import { a } from "./index1"
 
+console.log(a)
 //draw board
 const canvas = document.getElementById("canvas")
 const ctx = canvas.getContext('2d');
