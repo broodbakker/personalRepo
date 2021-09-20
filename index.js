@@ -1,4 +1,4 @@
-import { a } from "./index1"
+import { a } from "./index1.js"
 
 console.log(a)
 //draw board
