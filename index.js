@@ -1,6 +1,4 @@
-// import a from "./indexTest.js"
 
-//console.log(a, "here")
 //draw board
 const canvas = document.getElementById("canvas")
 const ctx = canvas.getContext('2d');
